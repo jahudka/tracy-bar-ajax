@@ -35,3 +35,6 @@ If you need to disable the update for a specific request, you may use the `AjaxB
 Also it is kind of important that you don't flush the output buffers before shutdown. AjaxBar starts one
 of its own when you register it, just make sure you don't flush all running buffers at the end of your script - that 
 would dispatch the HTTP headers and AjaxBar would be f*****.
+
+#### License
+MIT
