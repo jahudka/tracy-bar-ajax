@@ -1,3 +1,8 @@
+OBSOLETE
+========
+
+This package is now obsolete because Tracy handles AJAX request natively. It was always just a proof-of-concept anyway..
+
 tracy-bar-ajax
 ==============
 
